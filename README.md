@@ -1,4 +1,4 @@
-#Faatimah Leher 
+# Faatimah Leher 
 
 💫 About Me:
 🔭 I’m currently working on: Full-stack personal projects and training predictive ML models.<br><br>👯 I’m looking to collaborate on: Tech initiatives that solve real-world problems and open-source software.<br><br>🤔 I’m looking for help with: Finding mentorship opportunities in the information security industry.<br><br>🌱 I’m currently learning: Advanced data science architectures and cybersecurity.<br><br>💬 Ask me about: Web design basics or machine learning evaluation metrics.
