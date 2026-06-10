@@ -5,10 +5,6 @@
 
 
 
-<div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&&color=FF69B4&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Faatimah!;InfoSec+%26+Assurance+Student+%F0%9F%94%90;ML+%26+Cybersecurity+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;" alt="Typing SVG"/>
-</div>
-
 
 
 ---
